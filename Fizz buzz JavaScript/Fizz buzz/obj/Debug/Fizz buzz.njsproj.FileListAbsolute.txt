@@ -1,0 +1,3 @@
+C:\Users\edwar\Desktop\Fizz buzz\Fizz buzz\obj\Debug\Fizz buzz.njsprojAssemblyReference.cache
+C:\Users\edwar\Desktop\Fizz buzz\Fizz buzz\obj\Debug\Fizz buzz.njsproj.CoreCompileInputs.cache
+C:\Users\edwar\Desktop\Fizz buzz\Fizz buzz\bin\Microsoft.NodejsTools.WebRole.dll

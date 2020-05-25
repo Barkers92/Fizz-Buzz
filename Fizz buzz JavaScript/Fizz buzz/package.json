@@ -1,0 +1,9 @@
+{
+  "name": "fizz-buzz",
+  "version": "0.0.0",
+  "description": "Fizz buzz",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
